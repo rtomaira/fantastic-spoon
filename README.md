@@ -1,4 +1,5 @@
 ---
+title: Add a title
 output:
   pdf_document: default
   html_document: default
