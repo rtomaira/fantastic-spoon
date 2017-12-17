@@ -18,6 +18,8 @@ suggested points shown below
 - point 2
 - point 3
 
+You can add text in *bold*.
+
 ## Attribution
 
 This was written by Rasha and Raf too!
