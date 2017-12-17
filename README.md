@@ -16,6 +16,7 @@ suggested points shown below
 - point 1
 - point 2
 - point 3
+- point 4
 
 ## Attribution
 
