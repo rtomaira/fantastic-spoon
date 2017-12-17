@@ -3,7 +3,7 @@ output:
   pdf_document: default
   html_document: default
 ---
-# fantastic-spoon
+# fantastic-spoon Project
 
 Here is a paragraph explainin the purpose of this repo.
 
