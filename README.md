@@ -11,6 +11,8 @@ Here is some example code
 
 My bullets are:
 
+suggested points shown below
+
 - point 1
 - point 2
 - point 3
