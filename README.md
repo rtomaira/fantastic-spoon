@@ -9,7 +9,7 @@ Here is a paragraph explainin the purpose of this repo.
 
 Here is some example code
 
-My bullets are:
+My bullets are meant to improve this doc.
 
 suggested points shown below
 
